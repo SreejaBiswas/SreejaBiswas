@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sreeja Biswas</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="center" alt="Coding" width="800" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreejabiswas" alt="sreejabiswas" /></a> </p>
 
@@ -16,6 +16,8 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **sreejabiswas2@gmail.com**
+
+- My LinkedIn profile [https://www.linkedin.com/in/sreeja-biswas-880b4823a/](https://www.linkedin.com/in/sreeja-biswas-880b4823a/)
 
 - ⚡ Fun fact **I am focused!**
 
