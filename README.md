@@ -13,6 +13,11 @@
 
 - 📫 How to reach me **sreejabiswas2@gmail.com**
 
+- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.hackerrank.com/@sreejabiswas2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sreejabiswas2" height="30" width="40" /></a>
+</p>
+
 - My LinkedIn profile [https://www.linkedin.com/in/sreeja-biswas-880b4823a/](https://www.linkedin.com/in/sreeja-biswas-880b4823a/)
 
 - ⚡ Fun fact **I am focused!**
