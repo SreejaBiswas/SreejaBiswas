@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
 
-- 📝 My youtube channel url [https://www.youtube.com/channel/UCKVLpc3TZkQITE7kwVOHWPg](https://www.youtube.com/channel/UCKVLpc3TZkQITE7kwVOHWPg)
-
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **sreejabiswas2@gmail.com**
@@ -22,9 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://linkedin.com/in/sreejabiswas](https://www.linkedin.com/in/sreeja-biswas-880b4823a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreejabiswas" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sreeja.biswas.7798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sreejabiswas" height="30" width="40" /></a>
-<a href="https://instagram.com/sreeja6027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sreeja6027" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sreeja's creation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sreeja's creation" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
